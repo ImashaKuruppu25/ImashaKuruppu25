@@ -20,7 +20,7 @@
 #### Top Technologies
 
 ![Java Badge](https://img.shields.io/badge/-Java-gold?style=for-the-badge&labelColor=black&logo=java&logoColor=gold) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white) ![mongodb Badge](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white) ![express Badge](https://img.shields.io/badge/-Express-blue?style=for-the-badge&labelColor=black&logo=express&logoColor=white)![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&labelColor=black&logo=node&logoColor=white)
+![NodeJS Badge](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&labelColor=black&logo=Nodejs&logoColor=white)
 
 
 #### Profile Visits 
