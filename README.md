@@ -36,7 +36,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-  
+1. 💪 Opened PR [#2](https://github.com/ImashaKuruppu25/Global-Education/pull/2) in [ImashaKuruppu25/Global-Education](https://github.com/ImashaKuruppu25/Global-Education)
   
   
   
