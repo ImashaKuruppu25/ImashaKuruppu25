@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/zaiidahamed/MovieReservation-App/pull/3) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-2. 💪 Opened PR [#3](https://github.com/zaiidahamed/MovieReservation-App/pull/3) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
-3. 💪 Opened PR [#2](https://github.com/ImashaKuruppu25/Global-Education/pull/2) in [ImashaKuruppu25/Global-Education](https://github.com/ImashaKuruppu25/Global-Education)
-  
-  
+1. 🎉 Merged PR [#9](https://github.com/zaiidahamed/MovieReservation-App/pull/9) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
+2. 💪 Opened PR [#9](https://github.com/zaiidahamed/MovieReservation-App/pull/9) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
+3. 🎉 Merged PR [#3](https://github.com/zaiidahamed/MovieReservation-App/pull/3) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
+4. 💪 Opened PR [#3](https://github.com/zaiidahamed/MovieReservation-App/pull/3) in [zaiidahamed/MovieReservation-App](https://github.com/zaiidahamed/MovieReservation-App)
+5. 💪 Opened PR [#2](https://github.com/ImashaKuruppu25/Global-Education/pull/2) in [ImashaKuruppu25/Global-Education](https://github.com/ImashaKuruppu25/Global-Education)
   <!--END_SECTION:activity-->
 
 </details>
