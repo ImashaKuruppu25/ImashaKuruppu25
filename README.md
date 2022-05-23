@@ -3,7 +3,7 @@
 ### I'm a Student and Developer!!
 
 - 🌱 I’m currently learning MERN Stack 😎
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
