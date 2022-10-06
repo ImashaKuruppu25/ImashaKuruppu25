@@ -19,7 +19,7 @@
 
 #### Top Technologies
 
-![Java Badge](https://img.shields.io/badge/-Java-maroon?style=for-the-badge&labelColor=white&logo=java&logoColor=black) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=white&logo=mysql&logoColor=black) ![mongodb Badge](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=black) ![express Badge](https://img.shields.io/badge/-Express-purple?style=for-the-badge&labelColor=white&logo=express&logoColor=black) ![React Badge](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&labelColor=white&logo=react&logoColor=black)
+![Java Badge](https://img.shields.io/badge/-Java-maroon?style=for-the-badge&labelColor=white&logo=java&logoColor=black) ![MySql Badge](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&labelColor=white&logo=mysql&logoColor=black) ![mongodb Badge](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=black) ![express Badge](https://img.shields.io/badge/-Express-purple?style=for-the-badge&labelColor=white&logo=express&logoColor=black) ![React Badge](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&labelColor=white&logo=react&logoColor=black)(https://img.shields.io/badge/-PHP-lightblue?style=for-the-badge&labelColor=white&logo=PHP&logoColor=black)
 ![NodeJS Badge](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&labelColor=white&logo=node.js&logoColor=black)
 
 
